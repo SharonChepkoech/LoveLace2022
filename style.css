@@ -1,0 +1,31 @@
+
+.h1{
+    position: absolute;
+    color: white;
+    top: 60%;
+    left: 1%;
+    }
+    .hello{
+        position: absolute;
+        right: 60%;
+        top: 67%;
+        color: white;
+        margin-left:  20%;
+        
+
+    }
+    .hi{
+        position: absolute;
+        right: 40%;
+        top: 67%;
+        color: white;
+    }
+    #site-footer{
+        background-color:purple;
+         padding-block-start: 20%;
+         margin-top: 30%;
+    
+        
+         
+         
+    }
