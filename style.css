@@ -1,0 +1,29 @@
+div img {
+    
+
+}
+
+.row1 .img{
+    display: flex;
+    width: 25%;
+    padding: 5px;
+
+}
+
+.img  { 
+  content: "";
+  clear: both;
+  display: flex;
+  display: flex;
+    height: 250px;
+    width: 250px;
+}
+
+/* .Container .row1 {
+    display: flex;
+} */
+
+li {
+    list-style: none;
+    padding: 5px;
+}
