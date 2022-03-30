@@ -44,12 +44,12 @@ nav li a:hover{
     text-align: center;
     padding-top: 60px;
 }
-.pal{
-    font-family: 'Salsa', cursive;
-    font-size: 30px;
-    color: white;
+h2{
+    color: black;
+    font-size: 80px;
+    padding-top: 45.6%;
     text-align: center;
-    padding-bottom: 50px;
+    font-family: 'Salsa', cursive;
 }
 @media screen and (max-width:760px){
     .wrapper ul{
