@@ -51,6 +51,13 @@ h2{
     text-align: center;
     font-family: 'Salsa', cursive;
 }
+.pal{
+    font-family: 'Salsa', cursive;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
 @media screen and (max-width:760px){
     .wrapper ul{
         flex-direction: column;
