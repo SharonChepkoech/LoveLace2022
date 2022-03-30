@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+/* Nav section styling */
+.nav{
+position: absolute;
+width: 100%;
+height: 500px;
+left: 0px;
+top: 0px;
+background-image: url(/images/students.jpg);
+}
+.fom{
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    left: 0px;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.705);
+}
+nav{
+    text-align: center;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    font-size: 25px;
+}
+nav li a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Salsa', cursive;
+}
+nav li a:hover{
+    background-color: #742E71;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+#lash{
+    color: white;
+    font-family: 'Salsa', cursive;
+    font-size: 150px;
+    text-align: center;
+    padding-top: 60px;
+}
+h2{
+    color: black;
+    font-size: 80px;
+    padding-top: 45.6%;
+    text-align: center;
+    font-family: 'Salsa', cursive;
+}
