@@ -1,0 +1,12 @@
+.val{
+    display: flex;
+    padding-top: 2%;
+    justify-content: center;
+}
+.valv{
+    padding-right: 25%;
+}
+ul li{
+    padding: 5px;
+    font-size: 25px;
+}
