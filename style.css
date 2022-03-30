@@ -1,0 +1,28 @@
+
+nav{
+    text-align: center;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    font-size: 25px;
+}
+nav li a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Salsa', cursive;
+}
+nav li a:hover{
+    background-color: #742E71;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+#lash{
+    color: white;
+    font-family: 'Salsa', cursive;
+    font-size: 150px;
+    text-align: center;
+    padding-top: 60px;
+}
