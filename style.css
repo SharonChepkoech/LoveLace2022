@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-image{
-    margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  padding: 20%;
-  width: 180px;
-=======
 
 @import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
@@ -96,7 +88,6 @@ p{
     text-align: center;
     font-size: 25px;
     font-family: 'Signika Negative', sans-serif;
->>>>>>> 56acf3195fbd7ac5a523ac54ae07b109d31f1da3
 }
 .len{
     display: flex;
@@ -142,8 +133,6 @@ ul li{
     padding-left: 2%;
     padding: 2%;
 
-<<<<<<< HEAD
-=======
     /* margin-bottom: 20%; */
 }
 .cation{
@@ -167,4 +156,3 @@ h4{
     /* margin-bottom: 20%; */
 }
 
->>>>>>> 56acf3195fbd7ac5a523ac54ae07b109d31f1da3
